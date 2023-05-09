@@ -1,0 +1,9 @@
+.vscode
+
+# all compiled files
+
+a.out
+a.exe
+
+*.out
+*.exe
