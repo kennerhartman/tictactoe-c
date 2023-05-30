@@ -1,3 +1,4 @@
+<img src="https://img.shields.io/badge/project%20status-shelved-red"></img>
 
 # Tic-tac-toe in C
 
